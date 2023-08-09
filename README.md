@@ -17,6 +17,6 @@ _Sercan Esen'in projesinin [linki](https://github.com/sercan-esen/QuickDelivery)
 
 **Ekran Goruntuleri**
 <br>
-![Screenshot1.](https://github.com/zdurmus/su-yemeksiparis/blob/main/Screenshot2.png)
-![Screenshot1.](https://github.com/zdurmus/su-yemeksiparis/blob/main/Screenshot2.png)
-![Screenshot1.](https://github.com/zdurmus/su-yemeksiparis/blob/main/Screenshot2.png)
+![Screenshot1.](https://github.com/zdurmus/su_yemeksiparis/blob/main/Screenshot_1.png)
+![Screenshot2.](https://github.com/zdurmus/su_yemeksiparis/blob/main/Screenshot_2.png)
+![Screenshot3.](https://github.com/zdurmus/su_yemeksiparis/blob/main/Screenshot_3.png)
